@@ -1,5 +1,3 @@
-package graphs;
-
 import java.util.Scanner;
 
 class GraphAdjacencyMatrix {
