@@ -1,7 +1,3 @@
-
-
----
-
 ### **Features of a Queue**
 - **FIFO Principle:** Queues operate on a First-In-First-Out (FIFO) basis, meaning the first element added is the first to be removed.
 - **Enqueue and Dequeue Operations:**
