@@ -1,6 +1,3 @@
-
----
-
 ### **Features of a Linked List**
 - **Dynamic Size:** The size of a linked list is not fixed and can be dynamically adjusted.
 - **Efficient Insertions/Deletions:** Insertions and deletions are faster compared to arrays, especially for large datasets.
