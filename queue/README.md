@@ -1,4 +1,4 @@
-Here’s a detailed, well-structured explanation of the queue data structure:
+
 
 ---
 
