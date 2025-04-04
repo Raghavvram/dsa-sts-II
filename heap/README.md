@@ -1,6 +1,3 @@
-
----
-
 ### **Features of a Heap**
 - **Binary Tree Structure:** A heap is a complete binary tree where all levels are filled except possibly the last, and nodes are as far left as possible.
 - **Heap Property:**
