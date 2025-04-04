@@ -84,5 +84,3 @@
 - **Memory Overhead:** Storing pointers/references for each node incurs additional memory usage.
 
 ---
-
-Let me know if you’d like any deeper exploration of these types, or if you'd like code examples or visual representations, Raghavv!
