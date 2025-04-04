@@ -69,5 +69,3 @@
 - **Complexity:** Priority queues and deques can introduce additional computational complexity for maintaining order.
 
 ---
-
-Let me know if you'd like me to delve deeper into any specific type or application of queues, Raghavv!
