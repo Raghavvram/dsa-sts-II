@@ -1,7 +1,3 @@
-
-
----
-
 ### **Features of a Stack**
 - **LIFO Principle:** Stacks operate on a Last-In-First-Out (LIFO) basis, meaning the last element added is the first to be removed.
 - **Push and Pop Operations:** 
