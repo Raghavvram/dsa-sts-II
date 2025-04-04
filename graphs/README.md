@@ -1,7 +1,3 @@
-
-
----
-
 ### **Features of a Graph**
 - **Representation of Relationships:** Graphs model relationships between objects through nodes (vertices) and connections (edges).
 - **Directed and Undirected Edges:**
