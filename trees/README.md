@@ -1,4 +1,4 @@
-Here’s a detailed, structured explanation of the tree data structure:
+
 
 ---
 
