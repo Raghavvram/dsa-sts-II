@@ -68,5 +68,3 @@
 - **Complexity in Implementation:** Advanced heaps (e.g., Fibonacci) are harder to implement and maintain compared to simpler structures.
 
 ---
-
-If you’d like, I can provide practical examples, algorithms like heap sort or priority queue implementations, or discuss advanced heaps in detail. Just let me know, Raghavv!
