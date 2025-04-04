@@ -1,4 +1,3 @@
-Here’s everything you need to know about linked lists, laid out clearly and structured with bullet points:
 
 ---
 
