@@ -1,7 +1,3 @@
-
-
----
-
 ### **Features of a Tree**
 - **Hierarchical Structure:** A tree represents data in a parent-child relationship.
 - **Nodes:** Composed of elements called nodes, each containing data and references to child nodes.
