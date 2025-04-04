@@ -1,4 +1,3 @@
-Here’s a detailed and structured explanation of the heap data structure:
 
 ---
 
